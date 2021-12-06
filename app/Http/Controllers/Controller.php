@@ -25,4 +25,5 @@ class Controller extends BaseController
 
         view()->share('settings', $settings);
     }
+    
 }
